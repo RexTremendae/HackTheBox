@@ -7,3 +7,7 @@ sudo ip route del default via x.x.x.x (check output from `route` command)
 
 Firefox:
 "about:config" - layout.css.devPixelsPerPx (ta bort minustecken, skriv t.e.x 1.5)
+
+Hyper-V + NAT firewall:
+https://www.techtutsonline.com/setup-kali-linux-metasploitable-hyper-v-windows-10/
+
